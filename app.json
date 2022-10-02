@@ -3,7 +3,7 @@
     "description": "Hicham  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://telegra.ph/file/cad7038fe82e47f79c609.jpg",
     "keywords": ["whatsapp", "userbot", "bobiz", "bot", "ai" , "MD" ],
-    "repository": "https://github.com/stteye/BOBIZ-MD",
+    "repository": "https://github.com/stteye/Bot",
     "website":   "",
     "success_url": "",
     "stack": "container",
@@ -31,7 +31,7 @@
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://github.com/stteye/BOBIZ-MD" ,
+            "value": "https://github.com/stteye/Bot" ,
             "required": true
       },
       
