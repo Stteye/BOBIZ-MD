@@ -2,7 +2,7 @@
   "name": "Hicham-MD",
   "version": "1.0.0",
   "description": "undefined",
-  "main": "/bobiz/index.js",
+  "main": "/bot/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
